@@ -129,7 +129,7 @@ button.app__task-delete img:hover {
 }
 
 /* Completed */
-ul#app__task--complete label {
+ul#app__list--complete label {
   text-decoration: line-through
   color: #888;
 }
